@@ -1,6 +1,23 @@
-# CustomerOnboarding
+# Welcome to Customer Onboarding Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
+This is where you can start to get familiar with the codebase that we'll work with during our pairing session.
+As you will see, it is focused on identifying code smells, refactoring and testing legacy codebase while promoting
+conversations.
+
+## Application description
+For each new client there is a onboarding process needing, and of course, the process is served within an Web Application.
+The current application is a Demo App for viewing the current list of customer which is served by the ClientsListComponent class.
+
+## Technology used
+
+- Node v16+
+- NPM 8+
+- Angular Framework
+- Angular Material
+
+## Before the interview
+
+Get familiar with the codebase! Make sure you have the necessary dependencies installed.
 
 ## Development server
 
