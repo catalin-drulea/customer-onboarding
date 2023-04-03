@@ -10,6 +10,5 @@ export class ClientsService {
 
   getClients(): Observable<ClientModel[]> {
     return this.http.get<ClientModel[]>('/assets/mock/client-mock.json');
-    return of([]);
   }
 }
