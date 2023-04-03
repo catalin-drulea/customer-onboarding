@@ -1,0 +1,202 @@
+[
+  {
+    "cnp": "2961115214112",
+    "name": "Eminescu",
+    "firstName": "Mihai",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Cluj",
+    "cityOfBirth": "Cluj-Napoca",
+    "accountCurrency": "RON"
+  },
+  {
+    "cnp": "5031127464999",
+    "name": "Bacovia",
+    "firstName": "George",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Suceava",
+    "cityOfBirth": "Suceava",
+    "accountCurrency": "RON"
+  },
+  {
+    "cnp": "1881016301576",
+    "name": "Blaga",
+    "firstName": "Lucian",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Hunedoara",
+    "cityOfBirth": "Deva",
+    "accountCurrency": "EUR"
+  },
+  {
+    "cnp": "6020420080861",
+    "name": "Stanescu",
+    "firstName": "Nechita",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Cluj",
+    "cityOfBirth": "Cluj-Napoca",
+    "accountCurrency": "USD"
+  },
+  {
+    "cnp": "2990925076055",
+    "name": "Ionesco",
+    "firstName": "Eugen",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Cluj",
+    "cityOfBirth": "Turda",
+    "accountCurrency": "GBP"
+  },
+  {
+    "cnp": "2961115214112",
+    "name": "Eminescu",
+    "firstName": "Mihai",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Cluj",
+    "cityOfBirth": "Cluj-Napoca",
+    "accountCurrency": "RON"
+  },
+  {
+    "cnp": "5031127464999",
+    "name": "Bacovia",
+    "firstName": "George",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Suceava",
+    "cityOfBirth": "Suceava",
+    "accountCurrency": "RON"
+  },
+  {
+    "cnp": "1881016301576",
+    "name": "Blaga",
+    "firstName": "Lucian",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Hunedoara",
+    "cityOfBirth": "Deva",
+    "accountCurrency": "EUR"
+  },
+  {
+    "cnp": "6020420080861",
+    "name": "Stanescu",
+    "firstName": "Nechita",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Cluj",
+    "cityOfBirth": "Cluj-Napoca",
+    "accountCurrency": "USD"
+  },
+  {
+    "cnp": "2990925076055",
+    "name": "Ionesco",
+    "firstName": "Eugen",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Cluj",
+    "cityOfBirth": "Turda",
+    "accountCurrency": "GBP"
+  },
+  {
+    "cnp": "2961115214112",
+    "name": "Eminescu",
+    "firstName": "Mihai",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Cluj",
+    "cityOfBirth": "Cluj-Napoca",
+    "accountCurrency": "RON"
+  },
+  {
+    "cnp": "5031127464999",
+    "name": "Bacovia",
+    "firstName": "George",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Suceava",
+    "cityOfBirth": "Suceava",
+    "accountCurrency": "RON"
+  },
+  {
+    "cnp": "1881016301576",
+    "name": "Blaga",
+    "firstName": "Lucian",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Hunedoara",
+    "cityOfBirth": "Deva",
+    "accountCurrency": "EUR"
+  },
+  {
+    "cnp": "6020420080861",
+    "name": "Stanescu",
+    "firstName": "Nechita",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Cluj",
+    "cityOfBirth": "Cluj-Napoca",
+    "accountCurrency": "USD"
+  },
+  {
+    "cnp": "2990925076055",
+    "name": "Ionesco",
+    "firstName": "Eugen",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Cluj",
+    "cityOfBirth": "Turda",
+    "accountCurrency": "GBP"
+  },
+  {
+    "cnp": "2961115214112",
+    "name": "Eminescu",
+    "firstName": "Mihai",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Cluj",
+    "cityOfBirth": "Cluj-Napoca",
+    "accountCurrency": "RON"
+  },
+  {
+    "cnp": "5031127464999",
+    "name": "Bacovia",
+    "firstName": "George",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Suceava",
+    "cityOfBirth": "Suceava",
+    "accountCurrency": "RON"
+  },
+  {
+    "cnp": "1881016301576",
+    "name": "Blaga",
+    "firstName": "Lucian",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Hunedoara",
+    "cityOfBirth": "Deva",
+    "accountCurrency": "EUR"
+  },
+  {
+    "cnp": "6020420080861",
+    "name": "Stanescu",
+    "firstName": "Nechita",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Cluj",
+    "cityOfBirth": "Cluj-Napoca",
+    "accountCurrency": "USD"
+  },
+  {
+    "cnp": "2990925076055",
+    "name": "Ionesco",
+    "firstName": "Eugen",
+    "birthDate": "10/10/1991",
+    "countryOfBirth": "Romania",
+    "countyOfBirth": "Cluj",
+    "cityOfBirth": "Turda",
+    "accountCurrency": "GBP"
+  }
+]

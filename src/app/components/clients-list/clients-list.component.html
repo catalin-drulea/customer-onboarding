@@ -1,0 +1,48 @@
+<table mat-table [dataSource]="clientsList" class="mat-elevation-z8 clients-table">
+
+  <!--- Note that these columns can be defined in any order.
+        The actual rendered columns are set as a property on the row definition" -->
+
+  <ng-container matColumnDef="cnp">
+    <th mat-header-cell *matHeaderCellDef> CNP </th>
+    <td mat-cell *matCellDef="let element"> {{element.cnp}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="name">
+    <th mat-header-cell *matHeaderCellDef> Nume </th>
+    <td mat-cell *matCellDef="let element"> {{element.name}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="firstName">
+    <th mat-header-cell *matHeaderCellDef> Prenume </th>
+    <td mat-cell *matCellDef="let element"> {{element.firstName}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="birthDate">
+    <th mat-header-cell *matHeaderCellDef> Data nasterii </th>
+    <td mat-cell *matCellDef="let element"> {{element.birthDate}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="countryOfBirth">
+    <th mat-header-cell *matHeaderCellDef> Tara nasterii </th>
+    <td mat-cell *matCellDef="let element"> {{element.countryOfBirth}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="countyOfBirth">
+    <th mat-header-cell *matHeaderCellDef> Judetul nasterii </th>
+    <td mat-cell *matCellDef="let element"> {{element.countyOfBirth}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="cityOfBirth">
+    <th mat-header-cell *matHeaderCellDef> Orasul nasterii </th>
+    <td mat-cell *matCellDef="let element"> {{element.cityOfBirth}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="accountCurrency">
+    <th mat-header-cell *matHeaderCellDef> Moneda </th>
+    <td mat-cell *matCellDef="let element"> {{element.accountCurrency}} </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+</table>
