@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { ClientModel } from 'src/app/models/client.model';
 import { ClientsService } from 'src/app/services/clients.service';
 
@@ -7,7 +7,9 @@ import { ClientsService } from 'src/app/services/clients.service';
   templateUrl: './clients-list.component.html',
   styleUrls: ['./clients-list.component.scss']
 })
-export class ClientsListComponent implements OnInit {
+export class ClientsListComponent {
+
+  @Input() clientDataSource!: ClientModel[];
 
   protected clientsList: ClientModel[] = [];
   displayedColumns: string[] = [
@@ -22,13 +24,7 @@ export class ClientsListComponent implements OnInit {
     ];
 
   constructor(
-    private clientsService: ClientsService
   ) { }
 
-  ngOnInit(): void {
-    this.clientsService.getClients().subscribe((clients) => {
-      this.clientsList = clients;
-    })
-  }
 
 }
